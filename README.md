@@ -121,3 +121,9 @@ We welcome contributions! If you have ideas for improvements or new features, pl
 2. **Create your feature branch**:
    ```bash
    git checkout -b feature/YourFeature
+   License 📄
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Thank you for using the C Text Editor! 💻 Happy coding!
+Feel free to reach out if you have any questions or feedback. 😊
