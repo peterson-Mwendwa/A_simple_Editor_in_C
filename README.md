@@ -1,5 +1,5 @@
 # 📝 C Text Editor
-
+#**Am Valilian Peterson Mwendwa
 Welcome to **C Text Editor**! This is a lightweight, command-line-based text editor designed in C that allows you to create, edit, view, and manage text files. It also features basic syntax highlighting and text search capabilities to enhance user interaction. 🚀
 
 ## Table of Contents 📚
